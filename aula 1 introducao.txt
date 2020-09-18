@@ -1,0 +1,8 @@
+e um ambiente de servidor de codigo aberto
+
+e javascript no servidor
+
+combina a maquina virtual javascript v8, libuv(comunicacso listema operacional), event loopt(guiado a eventos
+
+assincronicidade
+
